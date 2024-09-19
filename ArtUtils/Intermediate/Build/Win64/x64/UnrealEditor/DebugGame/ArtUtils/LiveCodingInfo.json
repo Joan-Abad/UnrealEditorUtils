@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ArtUtils.cpp.obj": [
+			"ArtUtils.init.gen.cpp.obj",
+			"BlueprintFunctionUtilities.gen.cpp.obj",
+			"ArtUtils.cpp.obj",
+			"BlueprintFunctionUtilities.cpp.obj"
+		]
+	}
+}

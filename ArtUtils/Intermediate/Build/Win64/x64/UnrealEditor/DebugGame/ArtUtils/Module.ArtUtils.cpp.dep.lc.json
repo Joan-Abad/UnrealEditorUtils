@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\joan\\documents\\unrealprojects\\empty5_4\\plugins\\artutils\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\artutils\\module.artutils.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengine_5.4.1\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\joan\\documents\\unrealprojects\\empty5_4\\plugins\\artutils\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\artutils\\definitions.artutils.h",
+            "c:\\users\\joan\\documents\\unrealprojects\\empty5_4\\plugins\\artutils\\intermediate\\build\\win64\\unrealeditor\\inc\\artutils\\uht\\artutils.init.gen.cpp",
+            "c:\\users\\joan\\documents\\unrealprojects\\empty5_4\\plugins\\artutils\\intermediate\\build\\win64\\unrealeditor\\inc\\artutils\\uht\\blueprintfunctionutilities.gen.cpp",
+            "c:\\users\\joan\\documents\\unrealprojects\\empty5_4\\plugins\\artutils\\source\\artutils\\public\\blueprintfunctionutilities.h",
+            "c:\\users\\joan\\documents\\unrealprojects\\empty5_4\\plugins\\artutils\\intermediate\\build\\win64\\unrealeditor\\inc\\artutils\\uht\\blueprintfunctionutilities.generated.h",
+            "c:\\users\\joan\\documents\\unrealprojects\\empty5_4\\plugins\\artutils\\source\\artutils\\private\\artutils.cpp",
+            "c:\\users\\joan\\documents\\unrealprojects\\empty5_4\\plugins\\artutils\\source\\artutils\\public\\artutils.h",
+            "c:\\users\\joan\\documents\\unrealprojects\\empty5_4\\plugins\\artutils\\source\\artutils\\private\\blueprintfunctionutilities.cpp",
+            "c:\\unrealengine_5.4.1\\engine\\source\\editor\\unrealed\\public\\subsystems\\unrealeditorsubsystem.h",
+            "c:\\unrealengine_5.4.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\unrealeditorsubsystem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
